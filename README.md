@@ -1,7 +1,7 @@
 
 
 
-Project 1
+Project 2
 
 Data Source:
 The dataset used in this project is derived from the Framingham Study, focusing on cardiovascular risk features such as blood pressure and cholesterol. Extracted and consolidated into a single CSV file, this data is publicly available for use and consists of 4000+ records and 15+features
@@ -15,7 +15,7 @@ Analyze the relationships between smoking behavior and cardiovascular risk facto
 Investigate the impact of smoking on blood pressure, cholesterol, and Heart Rate.
 Contribute insights to the development of therapeutics and community health interventions for cardiovascular disease.
 
-Project 2
+Project 1
 
 In this project, I worked with a publicly available cardiovascular disease dataset (CDD) named CDD.xlsx, obtained from Kaggle. The dataset contains patient records from hospitals across the United States. My objective was to utilize this dataset to perform data cleaning on over 70,000+ patient records. The cleaned dataset was then used to run a logistic regression algorithm (implemented in the main file cdd.py), enabling users to predict the likelihood of cardiovascular disease based on a given body mass index (BMI) value.
 
