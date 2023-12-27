@@ -15,7 +15,7 @@ Analyze the relationships between smoking behavior and cardiovascular risk facto
 Investigate the impact of smoking on blood pressure, cholesterol, and Heart Rate.
 Contribute insights to the development of therapeutics and community health interventions for cardiovascular disease.
 
-Pojrect 2
+Project 2
 
 In this project, I worked with a publicly available cardiovascular disease dataset (CDD) named CDD.xlsx, obtained from Kaggle. The dataset contains patient records from hospitals across the United States. My objective was to utilize this dataset to perform data cleaning on over 70,000+ patient records. The cleaned dataset was then used to run a logistic regression algorithm (implemented in the main file cdd.py), enabling users to predict the likelihood of cardiovascular disease based on a given body mass index (BMI) value.
 
